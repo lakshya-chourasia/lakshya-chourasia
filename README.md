@@ -20,15 +20,22 @@
     <img height="20px" src="https://visitcount.itsvg.in/api?id=lakshya-chourasia&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </div>
 
+<br/>
+
+<!-- ABOUT ME -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+About+Me" alt="About Me" />
 </div>
+
+<br/>
 
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lakshya-chourasia&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 </div>
+
+<br/>
 
 I am a **Full-Stack Developer & AI Enthusiast** with a special passion for building innovative and scalable solutions. My actions are always aimed at achieving high-quality results and creating meaningful impact. In life, I am guided by continuous learning and self-improvement.
 
@@ -37,6 +44,8 @@ I am focused on developing AI-powered web applications and contributing to open-
 Currently, I am specializing in creating modern web applications, AI integrations, and high-performance systems. I'm also exploring advanced system design, cloud technologies, and microservices architecture.
 
 At the moment, I am deepening my knowledge in Next.js 14, Docker & Kubernetes, and building intelligent applications using GenAI and LLMs.
+
+<br/>
 
 ```javascript
 const LAKSHYA = {
@@ -64,21 +73,30 @@ const LAKSHYA = {
 };
 ```
 
+<br/>
+
+<!-- CURRENT FOCUS -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Current+Focus" alt="Current Focus" />
 </div>
+
+<br/>
 
 I am currently working on several exciting projects and learning new technologies:
 
 - 🤖 **AI Integration** → Building intelligent web applications using GenAI and LLMs
 - 📚 **Learning** → Advanced System Design, Next.js 14 & Microservices Architecture
-
 - 🔧 **Exploring** → Cloud Technologies (AWS, Azure), Docker & Kubernetes
 - 💡 **Goal** → Contributing to impactful open-source projects & building scalable solutions
 
+<br/>
+
+<!-- TECH STACK -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Tech+Stack" alt="Tech Stack" />
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -118,10 +136,14 @@ I am currently working on several exciting projects and learning new technologie
 </div>
 
 <br/>
+<br/>
 
+<!-- FEATURED PROJECTS -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Featured+Projects" alt="Featured Projects" />
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -129,6 +151,7 @@ I am currently working on several exciting projects and learning new technologie
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -142,10 +165,14 @@ I am currently working on several exciting projects and learning new technologie
 </div>
 
 <br/>
+<br/>
 
+<!-- LET'S CONNECT -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Let's+Connect" alt="Let's Connect" />
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -156,6 +183,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 🎓 **Happy to:** Mentor, share knowledge, and learn from others
 - 💡 **Passionate about:** Building innovative solutions that make a difference
 
+<br/>
+
 ### 📫 Reach out to me:
 
 <a href="https://linkedin.com/in/laakshyaa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -164,13 +193,23 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
+<!-- DEV QUOTE -->
 <div align="center">
     
-### 💭 Dev Quote
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Dev+Quote" alt="Dev Quote" />
+
+<br/>
+<br/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=24&duration=3500&pause=1500&color=E0DFF1&center=true&vCenter=true&width=650&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22Simplicity+is+the+soul+of+efficiency.%22;%22Any+fool+can+write+code+that+a+computer+can+understand.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Programs+must+be+written+for+people+to+read.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="Typing Quote" /></a>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
