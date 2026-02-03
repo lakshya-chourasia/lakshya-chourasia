@@ -106,36 +106,19 @@ I am currently working on several exciting projects and learning new technologie
 
 </div>
 
-## 🏆 Achievements & Competitions
+<br/>
+
+## � Featured Projects
 
 <div align="center">
 
-| Competition | Achievement | Year |
-|-------------|-------------|------|
-
-| **Hackathon Participation** | Multiple hackathon participations | 2024-2025 |
-| **Open Source** | Active contributor to various projects | Ongoing |
+*Coming Soon - Stay tuned for exciting projects!*
 
 </div>
 
-
-
-## 📊 Statistics
+<br/>
 
 <div align="center">
-
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lakshya-chourasia&bg_color=0d1117&title_color=00abf0&color=00abf0&line=00abf0&point=FFFFFF&hide_border=true&area=true&area_color=00abf0" width="95%"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshya-chourasia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00abf0&icon_color=00abf0&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-chourasia&theme=tokyonight&hide_border=true&background=0d1117&stroke=00abf0&ring=00abf0&fire=FF6B6B&currStreakLabel=00abf0&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-chourasia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00abf0&text_color=FFFFFF&hide=html,css" alt="Top Languages"/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshya-chourasia/lakshya-chourasia/output/github-snake-dark.svg" />
@@ -144,6 +127,8 @@ I am currently working on several exciting projects and learning new technologie
 </picture>
 
 </div>
+
+<br/>
 
 ## 🤝 Let's Connect!
 
