@@ -20,8 +20,15 @@
     <img height="20px" src="https://visitcount.itsvg.in/api?id=lakshya-chourasia&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </div>
 
-## 👨‍💻 A little about me... 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+About+Me" alt="About Me" />
+</div>
+
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lakshya-chourasia&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
 
 I am a **Full-Stack Developer & AI Enthusiast** with a special passion for building innovative and scalable solutions. My actions are always aimed at achieving high-quality results and creating meaningful impact. In life, I am guided by continuous learning and self-improvement.
 
@@ -57,7 +64,9 @@ const LAKSHYA = {
 };
 ```
 
-## 🎯 Current Focus
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Current+Focus" alt="Current Focus" />
+</div>
 
 I am currently working on several exciting projects and learning new technologies:
 
@@ -67,7 +76,9 @@ I am currently working on several exciting projects and learning new technologie
 - 🔧 **Exploring** → Cloud Technologies (AWS, Azure), Docker & Kubernetes
 - 💡 **Goal** → Contributing to impactful open-source projects & building scalable solutions
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Tech+Stack" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -108,7 +119,9 @@ I am currently working on several exciting projects and learning new technologie
 
 <br/>
 
-## � Featured Projects
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Featured+Projects" alt="Featured Projects" />
+</div>
 
 <div align="center">
 
@@ -130,7 +143,9 @@ I am currently working on several exciting projects and learning new technologie
 
 <br/>
 
-## 🤝 Let's Connect!
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&height=50&lines=%3C%2F%3E+Let's+Connect" alt="Let's Connect" />
+</div>
 
 <div align="center">
 
@@ -155,7 +170,7 @@ I'm always open to interesting conversations and collaboration opportunities!
     
 ### 💭 Dev Quote
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=24&duration=4000&pause=2000&color=E0DFF1&center=true&vCenter=true&width=600&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22Simplicity+is+the+soul+of+efficiency.%22;%22Any+fool+can+write+code+that+a+computer+can+understand.%22" alt="Typing Quote" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=24&duration=3500&pause=1500&color=E0DFF1&center=true&vCenter=true&width=650&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22Simplicity+is+the+soul+of+efficiency.%22;%22Any+fool+can+write+code+that+a+computer+can+understand.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Programs+must+be+written+for+people+to+read.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="Typing Quote" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
