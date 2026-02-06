@@ -15,9 +15,6 @@
 
 
 
-<div align="center">
-    <img height="20px" src="https://visitcount.itsvg.in/api?id=lakshya-chourasia&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</div>
 
 <br/>
 
