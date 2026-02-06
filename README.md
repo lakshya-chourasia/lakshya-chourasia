@@ -9,12 +9,11 @@
     <a href="https://linkedin.com/in/laakshyaa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:lakshyachourasiaaaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/lakshya-chourasia"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://leetcode.com/lakshya-chourasia"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+   
 </div>
 
-<div align="center" justify-content="space-between">
-	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
-</div>
+
+
 
 <div align="center">
     <img height="20px" src="https://visitcount.itsvg.in/api?id=lakshya-chourasia&label=Profile%20Views&color=12&icon=5&pretty=true" />
